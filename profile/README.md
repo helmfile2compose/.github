@@ -24,3 +24,5 @@ Three components: **h2c-core** (*the mad scribe*) converts the manifests, **exte
 | [h2c-converter-trust-manager](https://github.com/helmfile2compose/h2c-converter-trust-manager) | trust-manager CRD converter |
 | [h2c-provider-servicemonitor](https://github.com/helmfile2compose/h2c-provider-servicemonitor) | Prometheus & ServiceMonitor CRD provider |
 | [h2c-transform-flatten-internal-urls](https://github.com/helmfile2compose/h2c-transform-flatten-internal-urls) | Transform: strip aliases, rewrite FQDNs to short names |
+| [h2c-rewriter-nginx](https://github.com/helmfile2compose/h2c-rewriter-nginx) | Nginx ingress annotation rewriter |
+| [h2c-rewriter-traefik](https://github.com/helmfile2compose/h2c-rewriter-traefik) | Traefik ingress annotation rewriter (POC) |
